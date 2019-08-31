@@ -1,4 +1,3 @@
-無線電網
 <html lang="zh_tw" class="gr__jcradio_com_tw"><head>
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
