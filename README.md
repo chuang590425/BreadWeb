@@ -5,12 +5,4 @@
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-122468798-1');
-</script>
-
-<!--[if lt IE 9]><script src="js/html5.js"></script><![endif]-->
-<meta charset="UTF-8">
-<meta http-equiv="content-language" content="zh-TW">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
+  gtag('js', 
